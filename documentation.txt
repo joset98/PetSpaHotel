@@ -1,0 +1,18 @@
+https://www.django-rest-framework.org/api-guide/requests/
+
+
+404 
+https://docs.djangoproject.com/en/3.0/topics/http/shortcuts/
+
+routing
+https://www.django-rest-framework.org/api-guide/routers/
+
+https://es.stackoverflow.com/questions/176773/recoger-y-uso-par%C3%A1metro-de-entrada-por-url-con-django-y-rest-framework
+
+
+https://www.django-rest-framework.org/api-guide/reverse/
+
+https://docs.djangoproject.com/en/3.0/topics/http/urls/#reverse
+
+Consumir apis con django:
+	https://codigofacilito.com/articulos/consumir-api-django
