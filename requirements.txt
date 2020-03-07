@@ -1,5 +1,5 @@
 django
 gunicorn
+rest_framework
 django-heroku
 requests
-rest_framework
