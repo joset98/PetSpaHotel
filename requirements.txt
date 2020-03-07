@@ -1,5 +1,5 @@
 django
 gunicorn
-rest_framework
+rest_framework = 3.11.0 
 django-heroku
 requests
